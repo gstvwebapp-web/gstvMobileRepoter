@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.gstv.repoter"
+    name: "GSTV Reporter"
+  ios:
+    id: "com.gstv.repoter"
+    name: "GSTV Reporter"

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gstv-news-api",
+  "private_key_id": "6059c070eff22014c186d07b56f1f6d9fa036e9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIn1mqt0W2P70L\n8ZjJjY8ywuJOOew+igUkjdk5uXIUsiylhr6ptl57KgVh2b7AHOw4hS/iDrD5lz2f\nNSZc0KFI/Mg1TaW6O1iat8IFBEvsUc6CvT6wbscLmSEuAXYvcQp/w1Ypi4UNddIb\nANC8jjt4J9Kq0Uvi9YUqzugDfzeR+EXwOFRyvG3kGxwHXN/LOOjSFJ6sgrcy660a\nVm9dFHyOFNMELibbN+W4lYYFpEnK172b4GUfuyv3Cxyj4t3tmKvek8PjEFmuttJc\nz+IdrCun95BE+3RUj6wF03fzvwaTflVhcqkJcnOMiFiQCx3sAt1g0DvX/Q5fNE6B\nHuJUqIr/AgMBAAECggEABP8a/GQPtptELQ3GUJBXyah0etHfrvfaN7ykqIn60l/u\nbSAiLX3fDbg2zBoTl+gTstCpjm3vo54Y3DDQFMdJZqHAQFUy7gsLInqDHx1DrgE9\n+gZjW+eJlrtbyfzu7mPyImTa1EwNc0L4Izeg+zrOz/SsWLHy7uMbsiMKQKDX4UKM\nKfYx2AJaVByOk1n0H3h3yq7/kqT7UlC/vPKkFfQGk4piZ72xFL+EDQl3xp2Z/4HH\nW5SR+mUaivpokNcCmWds/nJLgGlvZCR9YixbAi5wOhd8lY6LVrtywsd2TgtkR8Z3\nmAeOdg8MxDVDTKL7pzENApd2wmWNRcitYg2NfVGdEQKBgQDxqiHEHooE4ilSdGSn\n9FaD/yOk5M4vxL9bsji9e0s7UgiIdkZl87ToqvFzO0XD5mI6Q4QjVrhLCopuqBRB\nfrdiopQ4Ho274GkuOF/DYsxGV3uhAJbsVWjjPIzkGUgFY+NMU5wGHOV/CErHJ5Vn\nyEh4tNtlFDaK2otHsZYlnE3zeQKBgQDUhfYYqBvVoJgPKg1pZe1U7XsVUKsHlnCB\nUqnAN+g6DnGu8iT7VoaopcKv70Mq1+pJ4lTMOIOgInbmwN56PTAltrLbjYfiygZB\n8sp2+uQI/ddUxPv234CkHKZtWOWfWiZZP6ji+f2IkVkXxqWpAAOjjy4AGWUCSgo+\nUBfZqYgcNwKBgAZFuSyi8kggKpxmQvqM//XbGGy+N4/L1n+lx407dv9qKKiKEVey\nFJ75WNz5y9zCzQfgGrzkElJ4SpGGsUfl5xKbT6eJO3qF35UAh5PFq7GjsaTDJCes\nK9XCC5IcCd+B8TNY9DLAa0B50Z8LqvgPnbnsT8l21deSxoys0k3VmbxZAoGBAJi/\nsCIIsfjZdHFxyDH5EJv6FH09fa/2cOaCg3+kr0ULHKqhX/NGPYL5oPTTA3PHvJ1e\nD5S5CeIO42b3OPCjCfgRWHx1PTXD/rtnxh2+NihASoSjEHZgLhXGgdgWDPR71xRO\nrRR2mcOOtHpiTK8rU3I7dtSba/45OSOQbZQERdABAoGAFl/9+/blFX9EDEkV4ETj\nhqTBwd6AV3mRG9CMopTpTVKHDn44PsiCHSakp+Y60HUHEGMxwLVA5i6J+h3T4f5O\nmVLWEHqiYTtQO4vCK50DUH8DM+mzVgbScEOPlbcKz3tRTaLE9AbaS8JBDr1EaHZb\nksmhQ8PigEfsqeJ7LrydDYw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-gstv@gstv-news-api.iam.gserviceaccount.com",
+  "client_id": "118365903836563570566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-gstv%40gstv-news-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

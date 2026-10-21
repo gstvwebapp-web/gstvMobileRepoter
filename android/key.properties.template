@@ -1,0 +1,14 @@
+# Template for key.properties
+# Copy this file to key.properties and fill in your actual keystore details
+# DO NOT commit key.properties to version control
+
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=YOUR_KEY_ALIAS
+storeFile=YOUR_KEYSTORE_FILE_PATH
+
+# Example:
+# storePassword=myStorePassword123
+# keyPassword=myKeyPassword123
+# keyAlias=gstv-admin-key
+# storeFile=../keystores/gstv-admin-keystore.jks 
